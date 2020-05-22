@@ -1,4 +1,4 @@
-KONG Docker Deployment (docker-compse)
+KONG Docker Deployment (docker-compose)
 ---
 
 ## Just run
